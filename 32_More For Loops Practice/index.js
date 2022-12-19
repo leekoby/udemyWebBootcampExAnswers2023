@@ -19,7 +19,17 @@ Let's try writing a for loop that counts down, rather than up. Please write a fo
 // 5
 // 0
 
+
 for (let i = 25; i >= 0; i -= 5) {
+    /* i 는 25 초기값
+      i는 0보다 크거나 같을 때까지 반복
+      i는 5씩 감소 
+      */
+
+
+
+
+
     console.log(i);
 
 }
