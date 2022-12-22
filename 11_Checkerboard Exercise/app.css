@@ -1,0 +1,8 @@
+/* WRITE YOUR CODE IN HERE!!!!  */
+.square:nth-child(2n-1) {
+    background-color: red;
+}
+
+.square:nth-child(2n) {
+    background-color: black;
+}
