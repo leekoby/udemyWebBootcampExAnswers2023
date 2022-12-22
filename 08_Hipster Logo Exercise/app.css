@@ -1,0 +1,13 @@
+/*YOUR CODE GOES IN HERE*/
+#upper {
+    text-transform: uppercase;
+    font-family: Monospace;
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: 20px;
+    text-decoration: underline;
+    text-decoration-color: plum;
+    text-decoration-style: wavy;
+    text-align: center;
+
+}
